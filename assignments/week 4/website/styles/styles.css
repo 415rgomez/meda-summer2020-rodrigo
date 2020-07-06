@@ -27,6 +27,51 @@ padding-bottom: 40px;
 color: darkred;
 }
 
+#header ul{
+   
+   color: black;
+   text-align: center;
+   padding-left: 0;
+   margin-bottom: 0;
+   padding-bottom: 20px;
+   
+}
+#header ul li{
+    
+    background-color: grey;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    line-height: 50px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 15px;
+}
+
+#header ul li a {
+
+    
+}
+#header ul li a:visited{
+    color: blue;
+}
+#header ul li a:link{
+    color: white;
+    text-decoration: none;
+}
+#header ul li a:hover{
+    color: red;}
+    
+    #header ul li a:active{
+        color: orange;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+
+
 #main {
     background-color: papayawhip;
 }
