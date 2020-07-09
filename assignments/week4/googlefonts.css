@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Maitree&family=Noto+Serif&display=swap');
+
+#page-title {
+
+
+    font-family: "Noto Serif";
+    font-weight: 300;
+}
+p {
+
+    font-family: "Maitree";
+}
