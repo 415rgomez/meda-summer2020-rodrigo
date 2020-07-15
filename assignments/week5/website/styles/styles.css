@@ -102,9 +102,9 @@ color: #479761;
 
 #main img {
     border-style: solid;
-    border-width: 2px;
+    border-width: 0;
     border-color: orange;
-    border-radius: 85px;
+    border-radius: 15px;
 }
 
 #footer {

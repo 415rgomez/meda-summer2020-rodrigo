@@ -1,1 +1,15 @@
-The color I want to choose for my background is a light blue. for my header 
+COLOR THEMES FOR PORTFOLIO:
+The color I want to choose for my background is a blackish grey. for my header text I want to use white so that it pops out.for the body text  i will use a olive green that is easy on the eyes. The links will be black with olive text.
+
+HOMEPAGE:Rodrigo Gomez, Iam currently in a webpage design class that is an introduction to html, css, and javascript.I hope to pursue my education at the conclusion of the cohort possibly in the backend portion of the program in the fall. City College is also an option i want to pursue as Iam currently residing in San Francisco outter Mission neigborhood.
+
+Quest for knowledge. Iam new to web design and before taking this class had little experience with computers and understanding what theyre capable of doing.Since being in the class I have gotten a better perspective of how exactly websites work and the effort it takes in building them. I enjoy learning new things and stepping outside of my comfort zone. Computers are fully integrated into are daily lives so having an understanding of the many functions they serve is essential in this day and age. 
+
+
+ 
+CONTACT:Here you will find informatiom on how to contact me 
+
+PROJECTS:this is a project Iam currently working on in my webpage design class:Hobby.html
+
+PORTFOLIO EXAMPLES:"https://collegeinfogeek.com/personal-website-examples/", I found this website useful for the simple way they got the point across in the examples. One thing that I diddnt like was it doesnt let you click on the examples and navigate the portfolios.
+"https://www.bestfolios.com/portfolio/eliasruizmonserrat",I liked the theme of this perticular portfolio and how the header,body,and footer were clear to tell apart.There was also alot of examples  
