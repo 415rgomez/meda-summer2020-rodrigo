@@ -1,9 +1,9 @@
 COLOR THEMES FOR PORTFOLIO:
-The color I want to choose for my background is a blackish grey. for my header text I want to use white so that it pops out.for the body text  i will use a olive green that is easy on the eyes. The links will be black with olive text.
+The color I want to choose for my background is #19181a. for my header text I want to use #cebc81 so that it pops out.for the body text  i will use #479761 that is easy on the eyes. The links will be #000000 background  with #479761 text.The footer text will be #c59b13
 
-HOMEPAGE:Rodrigo Gomez, Iam currently in a webpage design class that is an introduction to html, css, and javascript.I hope to pursue my education at the conclusion of the cohort possibly in the backend portion of the program in the fall. City College is also an option i want to pursue as Iam currently residing in San Francisco outter Mission neigborhood.
+HOMEPAGE:Rodrigo Gomez, Iam currently in a webpage design class that is an introduction to html, css, and javascript.I hope to pursue my education at the conclusion of the cohort possibly in the backend portion of the program in the fall. City College is also an option i want to pursue as Iam currently residing in San Francisco outter Mission neigborhood.I was raised in the Bay Area but had relocated to the central valley the last six years so it great to be back in SF and residing in the tech hub of the world 
 
-Quest for knowledge. Iam new to web design and before taking this class had little experience with computers and understanding what theyre capable of doing.Since being in the class I have gotten a better perspective of how exactly websites work and the effort it takes in building them. I enjoy learning new things and stepping outside of my comfort zone. Computers are fully integrated into are daily lives so having an understanding of the many functions they serve is essential in this day and age. 
+Quest for knowledge. Iam new to web design and before taking this class had little experience with computers and understanding what theyre capable of doing.Since being in the class I have gotten a better perspective of how exactly websites work and the effort it takes in building them. I enjoy learning new things and stepping outside of my comfort zone. Computers are fully integrated into are daily lives so having an understanding of the many functions they serve is essential in this day and age. I still have alot to learn and know that the tech industry is constantly evovling so I look forward to learning these skilss and sharpening them. 
 
 
  
@@ -12,4 +12,5 @@ CONTACT:Here you will find informatiom on how to contact me
 PROJECTS:this is a project Iam currently working on in my webpage design class:Hobby.html
 
 PORTFOLIO EXAMPLES:"https://collegeinfogeek.com/personal-website-examples/", I found this website useful for the simple way they got the point across in the examples. One thing that I diddnt like was it doesnt let you click on the examples and navigate the portfolios.
-"https://www.bestfolios.com/portfolio/eliasruizmonserrat",I liked the theme of this perticular portfolio and how the header,body,and footer were clear to tell apart.There was also alot of examples  
+"https://www.bestfolios.com/portfolio/eliasruizmonserrat",I liked the theme of this perticular portfolio and how the header,body,and footer were clear to tell apart.There was also alot of examples. A con of this portfolio was that it seemed  limited as far as information on the person.
+"http://heathershaw.com/", What i really liked about this webpage was the size of the links and the calming effects of the pictures and color themes used.I feel it was really well made.It was easy to navigate the webpage and it is interactive. There wasnt anything i diddnt like about the portfolio but if I had to choose something it would be that the profile picture didnt seem to professional  
