@@ -20,11 +20,13 @@ var mySpecialNumber = 8;
 
 var didTheyRead = myFunction();
 
-
-
-if (didTheyRead === false) {
-    myFunction();
+while (didTheyRead === false ) {
+     didTheyRead = myFunction();
 }
+
+
+ 
+   
 
 
 //ANY INFORMATION THAT ENTERS JAVASCRIPT FROM HTML OR CSS WILL BE THE DATATYPE OF STRING, REGARDLESS OF CONTENT.
