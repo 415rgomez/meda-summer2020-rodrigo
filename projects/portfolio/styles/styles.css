@@ -27,6 +27,7 @@ body {
     margin-right: 25px;
     width: 300px;
     height: 300px;
+    
 }
 
 #main p {
@@ -47,4 +48,51 @@ h2 {
 #h2 sub {
 
     font-size: medium;
+}
+
+#main ul {
+
+    color: #000000;
+    text-align: center;
+    padding-left: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#main ul li{
+
+    background-color: #000000;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    line-height: 50px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 15px;
+}
+
+#main ul li a:link{
+    color: #479761;
+}
+
+#footer {
+height: 100px;
+color: #c59b13;
+
+}
+
+#footer p {
+
+    margin-top: 0;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+body p#contact-page  {
+
+    text-align: center;
 }
