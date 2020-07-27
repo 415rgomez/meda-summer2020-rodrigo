@@ -21,6 +21,8 @@ var multiDimensionalArray = [
 
 ];
 
+var newArray2 = randomArray.concat(days);
+
 console.log(days[3]);
 console.log(days[5]);
 
@@ -43,3 +45,26 @@ var secondArray = [9, 90];
 var sumArray = addArrays(firstArray, secondArray);
 
 console.log(sumArray);
+
+
+//Array Functions
+
+// .push() puts a new piece of data at the end of the array. example: myArray.push("last item");
+// .pop() removes the last piece of data in the array (and returns it to wherever you called .pop()) example: myArray.pop()
+// .unshift() puts a new piece of data at the beggining of the array. example: myArray.unshift("cutting the line");
+//.shift() removes the first piece of data in the array (and returns it to wherever you called .shift()) example: myArray.shift
+
+//PUSH EXAMPLE
+
+
+var multiples = [];
+var multiplier = 9;
+
+for (var i = 0; i < 12; i = i + 1) {
+
+    var product = i * multiplier;
+
+    multiples.push(product);
+}
+
+console.log(multiples);

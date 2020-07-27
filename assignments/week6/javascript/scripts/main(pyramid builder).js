@@ -30,8 +30,8 @@ console.log("*");
 
 
 var asteriskString = "*";
-var pyramidSpeed = "****";
-var pyramidHeight = 10;
+var pyramidSpeed = "*";
+var pyramidHeight = 5;
 
 
 
@@ -42,4 +42,35 @@ for (var counter = 0; counter < pyramidHeight; counter ++) {
     console.log(asteriskString);
 
     asteriskString = asteriskString + pyramidSpeed;
+}
+
+
+//"*****"
+
+var exampleString = "*****";
+var exampleArray;
+
+exampleArray = exampleString.split("");
+
+//console.log(exampleArray);
+
+exampleArray.pop();
+
+//console.log(exampleArray);
+
+var updatedString = exampleArray.join("");
+
+console.log(updatedString);
+
+
+var exString = "**********";
+for (var i = 0; i < 10; i = i + 1) {
+   
+
+    var exArray = exString.split("");
+    exArray.pop();
+
+    exString = exArray.join("");
+    console.log(exString);
+
 }

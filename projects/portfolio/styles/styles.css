@@ -27,7 +27,7 @@ body {
     margin-right: 25px;
     width: 300px;
     height: 300px;
-    
+    text-align: center;
 }
 
 #main p {
@@ -92,7 +92,18 @@ color: #c59b13;
     text-align: center;
 }
 
-body p#contact-page  {
+div p  {
 
+    text-align: center;
+}
+#resume a {
+font-size: 40px;
+margin-left: auto;
+margin-right:auto ;
+
+
+}
+#contact p {
+    margin-right: 0;
     text-align: center;
 }
